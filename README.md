@@ -28,4 +28,7 @@ Skills: Node / React / Svelte / Postgres / RESTful services / Flutter
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=centinna-l)
 
+# Reach out to me at 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/centinna-l) &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jerry-joy-77aa0013a) &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jerryjoy7)  
+
 
