@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centinna-l)](https://github.com/anuraghazra/github-readme-stats) -->
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=centinna-l)
+
+# Contribution Graph
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=centinna-l)
 
 
