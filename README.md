@@ -40,7 +40,11 @@ Skills: Node / React / Svelte / Postgres / RESTful services / Flutter
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=centinna-l&show_icons=true&locale=en&layout=compact" alt="centinna-l" margin="12" /></p>
 
+# 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=centinna-l&show_icons=true&theme=tokyonight)
+
+# 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=centinna-l&" alt="centinna-l" /></p>
 
