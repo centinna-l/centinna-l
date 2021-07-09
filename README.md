@@ -19,24 +19,8 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centinna-l)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=centinna-l) -->
-
-
-
-
-
-# Reach out to me at 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/centinna-l) &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jerry-joy-77aa0013a) &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jerryjoy7)  
-
-
- -->
- 
- 
- 
- 
- 
- 
- <h1 align="center">Hi 👋, I'm Jerry</h1>
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=centinna-l) --> 
+<h1 align="center">Hi 👋, I'm Jerry</h1>
 <h3 align="center">A passionate developer from India</h3>
 Skills: Node / React / Svelte / Postgres / RESTful services / Flutter
 
@@ -60,3 +44,7 @@ Skills: Node / React / Svelte / Postgres / RESTful services / Flutter
 # Contribution Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=centinna-l)
+
+
+# Reach out to me at 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/centinna-l) &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jerry-joy-77aa0013a) &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jerryjoy7)  
