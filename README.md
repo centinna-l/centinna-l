@@ -38,7 +38,7 @@ Skills: Node / React / Svelte / Postgres / RESTful services / Flutter
 
 # Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=centinna-l&show_icons=true&locale=en&layout=compact" alt="centinna-l" margin="12" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=centinna-l&show_icons=true&locale=en&layout=compact" alt="centinna-l" margin="12" /></p> -->
 
  
 
