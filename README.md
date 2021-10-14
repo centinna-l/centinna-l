@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from India</h3>
 Skills: Node / React / Svelte / Postgres / RESTful services / Flutter
 
-- 🔭 I’m currently working on Node
-- 🌱 I’m currently learning Svelte
+- 🔭 I’m currently working on Node | MongoDB | Linode 
+- 🌱 I’m currently learning Fast API
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=centinna-l&label=Profile%20views&color=0e75b6&style=flat" alt="centinna-l" /> </p> -->
 
