@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=centinna-l) --> 
 <h1 align="center">Hi 👋, I'm Jerry</h1>
 <h3 align="center">A passionate developer from India</h3>
-Skills: Node / React / Svelte / Postgres / RESTful services / Flutter
+Skills: Node / React / Svelte / Postgres / RESTful services/ Web Sockets / FCM / Flutter
 
 - 🔭 I’m currently working on Node | MongoDB | Linode 
 - 🌱 I’m currently learning Fast API
