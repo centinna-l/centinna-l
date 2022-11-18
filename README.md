@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=centinna-l) --> 
 <h1 align="center">Hi 👋, I'm Jerry</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from Montreal</h3>
 Skills: Node / Ruby on Rails / React / Svelte / Postgres / RESTful services/ Web Sockets / FCM / Flutter
 
 - 🔭 I’m currently working on Node | Ruby on Rails | PGSQL | SQL | MongoDB | Linode | AWS 
