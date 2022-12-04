@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from Montreal</h3>
 Skills: Node / Ruby on Rails / React / Svelte / Postgres / RESTful services/ Web Sockets / FCM / Flutter
 
-- 🔭 I’m currently working on Node | Ruby on Rails | PGSQL | SQL | MongoDB | Linode | AWS 
+- 🔭 I’m currently working on Node | Ruby on Rails | PGSQL | SQL | MongoDB | Linode | AWS | JAVA | Flutter | React and React Native | Blockchain
 - 🌱 I’m currently learning Blockchain | solidity | Smart Contracts
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=centinna-l&label=Profile%20views&color=0e75b6&style=flat" alt="centinna-l" /> </p> -->
